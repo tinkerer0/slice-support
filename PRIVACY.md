@@ -1,13 +1,13 @@
 # Slice 개인정보 처리방침 / Slice Privacy Policy
 
-업데이트 / Last updated: 2026-11-08
+업데이트 / Last updated: 2026-11-13
 
 이 방침은 Slice 1.2 이상에 적용됩니다. 1.1 이하에는 광고 SDK가 없으며 게임 기록과 설정은 기기에만 저장됩니다.
 This policy applies to Slice 1.2 and later. Version 1.1 and earlier have no advertising SDK; game records and settings stay on the device.
 
 ## 한국어
 
-운영자: tinkerer0. 문의: **memobuddy66@gmail.com**
+운영자: tinkerer0. 문의: **tinkerer0.dev@gmail.com**
 
 ### 앱이 처리하는 정보
 
@@ -33,7 +33,7 @@ Google이 처리하는 정보와 보관·국외 처리·선택권은 [Google 개
 
 ## English
 
-Operator: tinkerer0. Contact: **memobuddy66@gmail.com**
+Operator: tinkerer0. Contact: **tinkerer0.dev@gmail.com**
 
 ### Data handled by the app
 

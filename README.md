@@ -13,7 +13,7 @@ iOS 17 이상이 필요합니다. 게임은 오프라인으로 동작하며 광�
 
 ## 문의
 
-지원 이메일: **memobuddy66@gmail.com**
+지원 이메일: **tinkerer0.dev@gmail.com**
 
 문제가 생기면 기기 모델, iOS 버전, 앱 버전과 발생 상황을 적어 주세요. 비밀번호나 민감한 개인정보를 보내지 마세요.
 
@@ -30,6 +30,6 @@ Slice is a music toy and rhythm game for iPhone: cut a white square on a black s
 
 Requires iOS 17 or later. Gameplay works offline; ads and consent updates require an internet connection.
 
-Support: **memobuddy66@gmail.com**. Include the device model, iOS and app version and a description of the issue. Do not send passwords or sensitive information.
+Support: **tinkerer0.dev@gmail.com**. Include the device model, iOS and app version and a description of the issue. Do not send passwords or sensitive information.
 
 [Privacy Policy](PRIVACY.md)
